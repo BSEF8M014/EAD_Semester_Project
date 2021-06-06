@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Awais Bharwana\source\repos\EAD\EAD\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\Awais Bharwana\source\repos\EAD\EAD\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Awais Bharwana\Documents\GitHub\EAD_Semester_Project\EAD\EAD\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Awais Bharwana\Documents\GitHub\EAD_Semester_Project\EAD\EAD\Client\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>
