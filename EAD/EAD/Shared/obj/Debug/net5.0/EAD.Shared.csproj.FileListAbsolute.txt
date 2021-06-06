@@ -1,0 +1,12 @@
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\bin\Debug\net5.0\EAD.Shared.deps.json
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\bin\Debug\net5.0\EAD.Shared.dll
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\bin\Debug\net5.0\ref\EAD.Shared.dll
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\bin\Debug\net5.0\EAD.Shared.pdb
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\EAD.Shared.csprojAssemblyReference.cache
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\EAD.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\EAD.Shared.AssemblyInfoInputs.cache
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\EAD.Shared.AssemblyInfo.cs
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\EAD.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\EAD.Shared.dll
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\ref\EAD.Shared.dll
+C:\Users\Awais Bharwana\source\repos\EAD\EAD\Shared\obj\Debug\net5.0\EAD.Shared.pdb
