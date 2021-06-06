@@ -20,5 +20,7 @@ namespace EAD.Server.Models
 
         public virtual ICollection<Company> Companies { get; set; }
         public virtual ICollection<Seeker> Seekers { get; set; }
+
+        
     }
 }

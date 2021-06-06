@@ -222,7 +222,6 @@
     },
     "lazyAssembly": null,
     "pdb": {
-      "EAD.Shared.pdb": "sha256-oLqak8lBsccpjU33BoLxiwGXnyzbSRZacZ6lyy7Etuo=",
       "EAD.Client.pdb": "sha256-0nFbBmNctWwZiCbwby6t\/wk92\/JVVuf8btgox8JLFCY="
     },
     "runtime": {
