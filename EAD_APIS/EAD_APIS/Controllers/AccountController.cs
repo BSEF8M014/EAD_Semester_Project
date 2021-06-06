@@ -12,13 +12,12 @@ namespace EAD_APIS.Controllers
     [ApiController]
     public class AccountController : ControllerBase
     {
-        [HttpGet]
-        [Route("login")]
-        public List<User> Get()
+        [HttpPost]
+        [Route("login/{user_name}/{user_pass}")]
+        public User Post(string user_name,string user_pass)
         {
             job_portalContext db = new job_portalContext();
-            return db.Users.ToList();
-
+            return db.Users.ToList().Find(s => s.UserName == user_name&& s.UserPass==user_pass);
         }
     }
     
