@@ -12,6 +12,12 @@ namespace EAD_APIS.Models
             Companies = new HashSet<Company>();
             Seekers = new HashSet<Seeker>();
         }
+        public User(string user_name,string user_pass,int type)
+        {
+            UserName = user_name;
+            UserPass = user_pass;
+            UserType = type;
+        }
 
         public int UserId { get; set; }
         public string UserName { get; set; }
